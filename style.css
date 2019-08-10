@@ -723,6 +723,9 @@ ul#nav li ul a,
 
 .slider-bg-three {
     background: url(img/slider/slide_3.jpg) no-repeat scroll center center / cover;
+
+.slider-bg-four {
+    background: url(img/slider/slide_4.jpg) no-repeat scroll center center / cover;
 }
 
 .welcome-slider-area.owl-carousel .owl-nav > div {
