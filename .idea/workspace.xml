@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e3e9702-8126-4968-a7ea-c1eaf7c7f2f8" name="Default Changelist" comment="" />
+    <list default="true" id="5e3e9702-8126-4968-a7ea-c1eaf7c7f2f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="171" column="35" selection-start-line="171" selection-start-column="28" selection-end-line="171" selection-end-column="35" />
+            <state relative-caret-position="427">
+              <caret line="188" column="95" selection-start-line="188" selection-start-column="95" selection-end-line="188" selection-end-column="95" />
             </state>
           </provider>
         </entry>
@@ -114,7 +116,7 @@
       <updated>1565435025935</updated>
       <workItem from="1565435028671" duration="4351000" />
       <workItem from="1565439557779" duration="811000" />
-      <workItem from="1565455572191" duration="1663000" />
+      <workItem from="1565455572191" duration="1962000" />
     </task>
     <task id="LOCAL-00001" summary="idtag">
       <created>1565439861623</created>
@@ -134,7 +136,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6825000" />
+    <option name="totallyTimeSpent" value="7124000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1688" y="137" width="1696" height="1036" extended-state="6" />
@@ -186,8 +188,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="171" column="35" selection-start-line="171" selection-start-column="28" selection-end-line="171" selection-end-column="35" />
+        <state relative-caret-position="427">
+          <caret line="188" column="95" selection-start-line="188" selection-start-column="95" selection-end-line="188" selection-end-column="95" />
         </state>
       </provider>
     </entry>
