@@ -24,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="243" column="26" lean-forward="true" selection-start-line="243" selection-start-column="26" selection-end-line="243" selection-end-column="26" />
+            <state relative-caret-position="501">
+              <caret line="265" column="83" lean-forward="true" selection-start-line="265" selection-start-column="83" selection-end-line="265" selection-end-column="83" />
             </state>
           </provider>
         </entry>
@@ -48,6 +48,8 @@
       <find>our service</find>
       <find>service</find>
       <find>welcome</find>
+      <find>col-</find>
+      <find>col</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -117,7 +119,7 @@
       <workItem from="1565435028671" duration="4351000" />
       <workItem from="1565439557779" duration="811000" />
       <workItem from="1565455572191" duration="2503000" />
-      <workItem from="1565518018600" duration="295000" />
+      <workItem from="1565518018600" duration="786000" />
     </task>
     <task id="LOCAL-00001" summary="idtag">
       <created>1565439861623</created>
@@ -137,7 +139,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7960000" />
+    <option name="totallyTimeSpent" value="8451000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1688" y="137" width="1696" height="1036" extended-state="6" />
@@ -189,8 +191,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="243" column="26" lean-forward="true" selection-start-line="243" selection-start-column="26" selection-end-line="243" selection-end-column="26" />
+        <state relative-caret-position="501">
+          <caret line="265" column="83" lean-forward="true" selection-start-line="265" selection-start-column="83" selection-end-line="265" selection-end-column="83" />
         </state>
       </provider>
     </entry>
