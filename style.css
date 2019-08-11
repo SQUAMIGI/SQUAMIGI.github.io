@@ -777,7 +777,7 @@ ul#nav li ul a,
     height: 50px;
     left: 0;
     position: absolute;
-    text-align: center;
+    text-align: left;
     top: -25px;
     width: 70px;
 }
