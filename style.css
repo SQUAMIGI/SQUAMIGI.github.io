@@ -258,9 +258,9 @@ input:-webkit-autofill:focus {
 
 .area-title h2 {
     display: inline-block;
-    font-size: 40px;
+    font-size: 20px;
     letter-spacing: 2px;
-    line-height: 1;
+    line-height: 0px;
     margin-bottom: 30px;
     padding-bottom: 20px;
     position: relative;
