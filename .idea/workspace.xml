@@ -10,20 +10,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8534">
-              <caret line="502" column="1" selection-start-line="502" selection-start-column="1" selection-end-line="502" selection-end-column="1" />
+            <state relative-caret-position="597">
+              <caret line="265" column="23" lean-forward="true" selection-start-line="265" selection-start-column="23" selection-end-line="265" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="352" column="22" lean-forward="true" selection-start-line="352" selection-start-column="22" selection-end-line="352" selection-end-column="22" />
+            <state relative-caret-position="549">
+              <caret line="356" column="35" lean-forward="true" selection-start-line="356" selection-start-column="35" selection-end-line="356" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -90,14 +90,14 @@
       <list>
         <option value="$PROJECT_DIR$/index-3.html" />
         <option value="$PROJECT_DIR$/all_content.html" />
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/css/responsive.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/style.css" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="283" />
     <option name="y" value="-14" />
     <option name="width" value="1400" />
@@ -161,7 +161,7 @@
       <workItem from="1565439557779" duration="811000" />
       <workItem from="1565455572191" duration="2503000" />
       <workItem from="1565518018600" duration="10148000" />
-      <workItem from="1565561395664" duration="251000" />
+      <workItem from="1565561395664" duration="496000" />
     </task>
     <task id="LOCAL-00001" summary="idtag">
       <created>1565439861623</created>
@@ -184,11 +184,32 @@
       <option name="project" value="LOCAL" />
       <updated>1565561429310</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="idtag">
+      <created>1565561803271</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565561803271</updated>
+    </task>
+    <task id="LOCAL-00005" summary="idtag">
+      <created>1565561858728</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1565561858728</updated>
+    </task>
+    <task id="LOCAL-00006" summary="idtag">
+      <created>1565561890830</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1565561890830</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18064000" />
+    <option name="totallyTimeSpent" value="18309000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1186" extended-state="6" />
@@ -224,13 +245,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index-3.html" />
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8534">
-          <caret line="502" column="1" selection-start-line="502" selection-start-column="1" selection-end-line="502" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1241">
@@ -254,8 +268,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="352" column="22" lean-forward="true" selection-start-line="352" selection-start-column="22" selection-end-line="352" selection-end-column="22" />
+        <state relative-caret-position="549">
+          <caret line="356" column="35" lean-forward="true" selection-start-line="356" selection-start-column="35" selection-end-line="356" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="265" column="23" lean-forward="true" selection-start-line="265" selection-start-column="23" selection-end-line="265" selection-end-column="23" />
         </state>
       </provider>
     </entry>
