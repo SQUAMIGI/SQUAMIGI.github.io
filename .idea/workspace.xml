@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e3e9702-8126-4968-a7ea-c1eaf7c7f2f8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="5e3e9702-8126-4968-a7ea-c1eaf7c7f2f8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +19,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="291">
@@ -29,6 +27,24 @@
               <folding>
                 <element signature="e#21569#21575#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="4" column="69996" selection-start-line="4" selection-start-column="69996" selection-end-line="4" selection-end-column="69996" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/responsive.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="304" column="15" lean-forward="true" selection-start-line="304" selection-start-column="15" selection-end-line="304" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -79,12 +95,14 @@
         <option value="$PROJECT_DIR$/all_content.html" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/css/responsive.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1559" />
-    <option name="y" value="194" />
+    <option name="x" value="283" />
+    <option name="y" value="-14" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -100,6 +118,11 @@
             <path>
               <item name="SQUAMIGI.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="SQUAMIGI.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SQUAMIGI.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SQUAMIGI.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -137,7 +160,7 @@
       <workItem from="1565435028671" duration="4351000" />
       <workItem from="1565439557779" duration="811000" />
       <workItem from="1565455572191" duration="2503000" />
-      <workItem from="1565518018600" duration="9735000" />
+      <workItem from="1565518018600" duration="10148000" />
     </task>
     <task id="LOCAL-00001" summary="idtag">
       <created>1565439861623</created>
@@ -157,7 +180,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17400000" />
+    <option name="totallyTimeSpent" value="17813000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1688" y="137" width="1696" height="1036" extended-state="6" />
@@ -214,6 +237,20 @@
           <folding>
             <element signature="e#21569#21575#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="4" column="69996" selection-start-line="4" selection-start-column="69996" selection-end-line="4" selection-end-column="69996" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="304" column="15" lean-forward="true" selection-start-line="304" selection-start-column="15" selection-end-line="304" selection-end-column="15" />
         </state>
       </provider>
     </entry>
