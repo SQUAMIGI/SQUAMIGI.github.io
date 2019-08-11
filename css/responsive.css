@@ -307,7 +307,7 @@
     }
     .navbar-brand {
         margin-top: -3px;
-        padding: 8px;
+        padding: 0;
     }
     .is-sticky .navbar-brand {
         margin-top: -3px;
