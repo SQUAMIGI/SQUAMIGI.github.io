@@ -50,6 +50,7 @@
       <find>welcome</find>
       <find>col-</find>
       <find>col</find>
+      <find>blog-det</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
